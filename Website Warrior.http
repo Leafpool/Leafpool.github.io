@@ -1,0 +1,47 @@
+<style>
+         body{                  
+         	       background-color:red;
+                   font-size: 20px;
+                    color: black
+
+                    }
+#italics{
+                     Font-style:italics;
+                     Font-size:1.5em;
+
+                     }
+
+.button{
+           Cursor: pointers;
+           width: 100px;
+           height:20px;
+           background-color: lightbrown;
+
+
+
+
+
+
+
+
+          <div>
+                      <H1>Library</h1>
+                      <ul>
+                               <li>  Checkout </li>
+                               <li> Veiw Accont</li>
+                               <li> Hours</li>
+
+                            </ul>
+
+                        </div>
+            
+               <a href="checkout.html"  class="button">Checkout here </a>
+
+
+
+
+
+
+
+
+
